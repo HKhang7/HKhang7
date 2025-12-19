@@ -6,51 +6,51 @@ I am a Software Engineering student with a strong focus on building solid progra
 
 Technical Skills
 
-Programming Languages: C, C++, C#, Python
+- Programming Languages: C, C++, C#, Python
 
-Web Basics: HTML, CSS
+- Web Basics: HTML, CSS
 
-Database: SQL (basic level)
+- Database: SQL (basic level)
 
 Core Knowledge:
 
-Object-Oriented Programming (OOP) fundamentals
+- Object-Oriented Programming (OOP) fundamentals
 
-Basic data structures and algorithms
+- Basic data structures and algorithms
 
-Ability to read and understand technical documentation
+- Ability to read and understand technical documentation
 
 Tools: Git, GitHub, Visual Studio, VS Code
 
 Learning & Career Goals
 
-Strengthen core programming and software engineering fundamentals
+- Strengthen core programming and software engineering fundamentals
 
-Gain hands-on experience through real projects
+- Gain hands-on experience through real projects
 
-Improve problem-solving and coding skills
+- Improve problem-solving and coding skills
 
-Develop professional working discipline in a real development environment
+- Develop professional working discipline in a real development environment
 
 Repositories
 
 This GitHub account contains:
 
-Academic assignments
+- Academic assignments
 
-Practice exercises
+- Practice exercises
 
-Small learning projects related to software engineering fundamentals
+- Small learning projects related to software engineering fundamentals
 
 Internship Objective
 
 I am looking for an internship position in software development where I can:
 
-Learn from experienced engineers
+- Learn from experienced engineers
 
-Contribute to tasks appropriate to my skill level
+- Contribute to tasks appropriate to my skill level
 
-Continuously improve my technical and teamwork skills
+- Continuously improve my technical and teamwork skills
 
 Contact
 
